@@ -9,8 +9,8 @@ run detection from image file
 1. click image button , a dialouge box will open,
 2. in the dialouge box navigate and select the image media file and it will start detection
 
-#![](img.gif =250x250)
-<img src="img.gif" width="40" height="40" />
+#![](img.gif =250x)
+<img src="img.gif" width="200" height="40" />
 
 run detection from video file 
 1. click video button (look likes youtube logo), a dialouge box will open,
