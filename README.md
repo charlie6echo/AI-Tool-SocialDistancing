@@ -9,7 +9,7 @@ run detection from image file
 1. click image button , a dialouge box will open,
 2. in the dialouge box navigate and select the image media file and it will start detection
 
-#![](img.gif =250x)
+#![](img.gif=250x)
 <img src="img.gif" width="200" height="40" />
 
 run detection from video file 
